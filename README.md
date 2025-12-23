@@ -1,4 +1,4 @@
-정승재 (Jung Seung Jae)
+정승재 (Jung SeungJae)
 =
 ## Contact
 - Gmail (laberryo0912@gmail.com)

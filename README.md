@@ -18,7 +18,7 @@
 &nbsp;
 - Front-End: React, Vue.js, TypeScript
 - Back-End: JSP, Java(Spring)
-- DB: MySQL, Mariana DB, Oracle DB
+- DB: MySQL, Mariana DB, Oracle DB  
 &nbsp;
 - Software: Python, Java, C++
 - Game Development: Unity Engine

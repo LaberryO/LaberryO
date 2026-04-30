@@ -28,6 +28,6 @@
 ---
 
 <h3>Support Language</h3>
-- 한국어 (Korean)
-- English
+- 한국어 (Korean)  
+- English  
 - 日本語 (Japanese, Still Learning🎓)

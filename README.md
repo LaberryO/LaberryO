@@ -1,6 +1,6 @@
 <h2 align="center">Hello, World! I'm LaberryO. 🖐️</h2>
 
-<h3>LaberryO, The Junior Developer</h3>
+<h3>Jung Seung Jae, The Junior Developer</h3>
 
 ---
 
@@ -24,3 +24,10 @@
 ---
 
 <h3>Contact Discord: laberryo</h3>
+
+---
+
+<h3>Support Language</h3>
+- 한국어 (Korean)
+- English
+- 日本語 (Japanese, Still Learning🎓)

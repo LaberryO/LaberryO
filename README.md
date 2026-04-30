@@ -1,6 +1,6 @@
 <h2 align="center">Hello, World! I'm LaberryO. 🖐️</h2>
 
-### LaberryO, The Junior Developer
+<h3>LaberryO, The Junior Developer</h3>
 
 ---
 
@@ -11,7 +11,7 @@
 
 ---
 
-### Stacks
+<h3>Stacks</h3>
 
 ---
 - OS: Windows  
@@ -23,4 +23,4 @@
 - Game Development: Unity Engine
 ---
 
-### Contact Discord: laberryo
+<h3>Contact Discord: laberryo</h3>

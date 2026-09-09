@@ -17,11 +17,11 @@
 - OS: Windows  
 &nbsp;
 - Front-End: React, Vue.js, TypeScript
-- Back-End: JSP, Java(Spring)
-- DB: MySQL, Mariana DB, Oracle DB  
+- Back-End: JSP, Java(Spring), Python(FastAPI)
+- DB: MySQL, Maria DB, Oracle DB, SQLite
 &nbsp;
 - Software: Python, Java, C++
-- Game Development: Unity Engine
+- Game Development: Unity Engine(C#), pygame(Python)
 ---
 
 <h3>Contact Discord: laberryo</h3>

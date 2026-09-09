@@ -1,6 +1,6 @@
 <h2 align="center">Hello, World! I'm LaberryO. 🖐️</h2>
 
-<h3>Jung Seung Jae, The Junior Developer</h3>
+<h3>JUNG SEUNGJAE, The Junior Developer</h3>
 
 ---
 
@@ -17,7 +17,7 @@
 - OS: Windows  
 &nbsp;
 - Front-End: React, Vue.js, TypeScript
-- Back-End: JSP, Java(Spring), Python(FastAPI)
+- Back-End: JSP, Java(Spring Boot), Python(FastAPI)
 - DB: MySQL, Maria DB, Oracle DB, SQLite
 &nbsp;
 - Software: Python, Java, C++
